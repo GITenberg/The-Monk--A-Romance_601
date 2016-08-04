@@ -1,0 +1,49 @@
+_repo: The-Monk--A-Romance_601
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Lewis, M. G. (Matthew Gregory)
+    aliases:
+    - Lewis, Matthew Gregory
+    - Lewis, Monk
+    birthdate: 1775
+    deathdate: 1818
+    gutenberg_agent_id: '315'
+    url: http://www.gutenberg.org/2009/agents/315
+    wikipedia: http://en.wikipedia.org/wiki/Matthew_Gregory_Lewis
+description: "The Monk: A Romance is a Gothic novel by Matthew Gregory Lewis, published\
+  \ in 1796. A quickly written book from early in Lewis's career (it was written in\
+  \ ten weeks, before he turned 20), its convoluted and scandalous plot has made it\
+  \ one of the most important Gothic novels of its time, often imitated and adapted\
+  \ for the stage and the screen.\n From Wikipedia (CC BY-SA)."
+gutenberg_bookshelf:
+- Gothic Fiction
+- Best Books Ever Listings
+gutenberg_issued: '1996-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '601'
+  wikidata: Q2659564
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Gothic fiction (Literary genre)'
+- !lcsh 'Monks -- Fiction'
+- !lcsh 'Madrid (Spain) -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Horror tales'
+- GITenberg
+title: 'The Monk: A Romance'
+url: http://www.gutenberg.org/ebooks/601
+wikipedia:
+- https://fr.wikipedia.org/wiki/Le_Moine
+- https://pl.wikipedia.org/wiki/Mnich_(powie%C5%9B%C4%87)
+- https://en.wikipedia.org/wiki/The_Monk
+- https://es.wikipedia.org/wiki/El_monje
+- https://bg.wikipedia.org/wiki/%D0%9C%D0%BE%D0%BD%D0%B0%D1%85%D1%8A%D1%82
+- https://be-tarask.wikipedia.org/wiki/%D0%9C%D0%B0%D0%BD%D0%B0%D1%85_(%D1%80%D0%B0%D0%BC%D0%B0%D0%BD)
+- https://it.wikipedia.org/wiki/Il_monaco_(romanzo)
+- https://la.wikipedia.org/wiki/The_Monk
+- https://ru.wikipedia.org/wiki/%D0%9C%D0%BE%D0%BD%D0%B0%D1%85_(%D1%80%D0%BE%D0%BC%D0%B0%D0%BD)
