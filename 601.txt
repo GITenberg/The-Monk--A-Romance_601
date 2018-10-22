@@ -12,6 +12,7 @@ Author: M. G. Lewis
 
 Posting Date: October 10, 2008 [EBook #601]
 Release Date: July, 1996
+Last Updated: March 19, 2015
 
 Language: English
 
@@ -354,7 +355,7 @@ married her unknown to his Father.  Their union remained a secret near
 three years, But at last it came to the ears of the old Marquis, who,
 as you may well suppose, was not much pleased with the intelligence.
 Away He posted in all haste to Cordova, determined to seize Elvira, and
-send her away to some place or other, where She would never be heard of
+send her away to some place or other, where she would never be heard of
 more.  Holy St. Paul! How He stormed on finding that She had escaped
 him, had joined her Husband, and that they had embarked together for
 the Indies. He swore at us all, as if the Evil Spirit had possessed
@@ -1664,7 +1665,7 @@ dissipate the unpleasant ideas which this scene had excited in him,
 upon quitting the Chapel He descended into the Abbey Garden.
 
 In all Madrid there was no spot more beautiful or better regulated.  It
-was laid out with the most exquisite taste; The choicest flowers
+was laid out with the most exquisite taste. The choicest flowers
 adorned it in the height of luxuriance, and though artfully arranged,
 seemed only planted by the hand of Nature: Fountains, springing from
 basons of white Marble, cooled the air with perpetual showers; and the
@@ -2365,7 +2366,7 @@ no will but yours!'
 which cuts me to the very heart.  Take back your promise. I will quit
 the Monastery this very day.  I have a Relation, Abbess of a Covent in
 Estramadura:  To her will I bend my steps, and shut myself from the
-world for ever.  Yet tell me, Father; Shall I bear your good wishes
+world for ever.  Yet tell me, Father, shall I bear your good wishes
 with me to my solitude?  Will you sometimes abstract your attention
 from heavenly objects to bestow a thought upon me?'
 
@@ -3391,7 +3392,7 @@ countenance; and it bore such visible marks of rancour and ill-will, as
 could not escape being noticed by the most inattentive Observer.  Her
 every look and action expressed discontent and impatience, and the
 answers which She gave Baptiste, when He reproached her good-humouredly
-for her dissatisfied air, were tart, short, and cutting.  In fine, I
+for her dissatisfied air, were tart, short, and cutting.  In tine, I
 conceived at first sight equal disgust for her, and prepossession in
 favour of her Husband, whose appearance was calculated to inspire
 esteem and confidence.  His countenance was open, sincere, and
@@ -5959,10 +5960,10 @@ distant Province on a visit to the Duke de Medina, and as to Agnes, no
 one could or would inform me what was become of her.  Theodore,
 according to promise, had returned to Strasbourg, where He found his
 Grandfather dead, and Marguerite in possession of his fortune.  All her
-persuations to remain with her were fruitless:  He quitted her a second
+persuasions to remain with her were fruitless:  He quitted her a second
 time, and followed me to Madrid.  He exerted himself to the utmost in
 forwarding my search: But our united endeavours were unattended by
-success. The retreat, which concealed Agnes remained an impenetrable
+success. The retreat which concealed Agnes remained an impenetrable
 mystery, and I began to abandon all hopes of recovering her.
 
 About eight months ago I was returning to my Hotel in a melancholy
@@ -6115,7 +6116,7 @@ ascribed to me.
 
 My prayers, my arguments, and vows not to quit her, till She had
 promised to listen to me, united to her fears lest the Nuns should see
-me with her, to her natural curiosity, and to the effection which She
+me with her, to her natural curiosity, and to the affection which She
 still felt for me in spite of my supposed desertion, at length
 prevailed. She told me that to grant my request at that moment was
 impossible; But She engaged to be in the same spot at eleven that
@@ -8242,7 +8243,7 @@ still sparkled. The hopes which He gave her of her Mother's recovery,
 the lively interest which He seemed to feel for her, and the flattering
 way in which She was mentioned by him, added to the report of his
 judgment and virtue, and to the impression made upon her by his
-eloquence, confirmed the favourable opinion with which his first,
+eloquence, confirmed the favourable opinion with which his first
 appearance had inspired Antonia.  She replied with diffidence, but
 without restraint:  She feared not to relate to him all her little
 sorrows, all her little fears and anxieties; and She thanked him for
@@ -12803,7 +12804,6 @@ At the same time drawing a poignard, She rushed upon her devoted prey.
 the already lifted weapon.  'What would you do, cruel Woman? The
 Unfortunate has already suffered but too much, thanks to your
 pernicious consels!  Would to God that I had never followed them!
-
 Would to God that I had never seen your face!'
 
 Matilda darted upon him a look of scorn.
@@ -12944,7 +12944,7 @@ Nuns who had belonged to it were obliged in consequence to disperse
 themselves into other Societies:  But the prejudice against them ran
 high, and the Superiors were very unwilling to admit them.  However,
 most of them being related to Families the most distinguished for their
-riches birth and power, the several Convents were compelled to receive
+riches, birth and power, the several Convents were compelled to receive
 them, though they did it with a very ill grace.  This prejudice was
 extremely false and unjustifiable:  After a close investigation, it was
 proved that All in the Convent were persuaded of the death of Agnes,
@@ -13627,7 +13627,7 @@ Villa-Franca:  But what you cannot know is the extent of my gratitude,
 boundless as the excellence of my Benefactors. Lorenzo!  Raymond!
 Names so dear to me!  Teach me to bear with fortitude this sudden
 transition from misery to bliss.  So lately a Captive, opprest with
-chains, perishing with hunger, suffering every in convenience of cold
+chains, perishing with hunger, suffering every inconvenience of cold
 and want, hidden from the light, excluded from society, hopeless,
 neglected, and as I feared, forgotten; Now restored to life and
 liberty, enjoying all the comforts of affluence and ease, surrounded by
